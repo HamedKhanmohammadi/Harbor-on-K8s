@@ -1,7 +1,6 @@
 # 🚢 Deploying Harbor Container Registry on Kubernetes
 
-This guide walks you through installing **Harbor** (a cloud-native container registry) on a Kubernetes cluster using Helm. The steps match the following article:  
-🔗 [Harbor Container Registry – DevGenius](https://blog.devgenius.io/harbor-container-registry-f0d5ef7d899a)
+This guide walks you through installing **Harbor** (a cloud-native container registry) on a Kubernetes cluster using Helm.
 
 ---
 
